@@ -1,5 +1,8 @@
 # Sign Comparison Neural Network
 
+## Author
+Adam Bydłowski
+
 ## Project Objective
 This project was completed as part of the Introduction to Artificial Intelligence course at Wrocław University of Science and Technology.
 
